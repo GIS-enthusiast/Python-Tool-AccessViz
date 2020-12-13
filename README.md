@@ -1,6 +1,6 @@
 # Toolkit for visualising time travel matrix data in the Helsinki Region.
 
-The file Accessviz.py contains the library.
+The file AccessViz.py contains the library.
 
 Data to be used with the tools can be downloaded here: https://blogs.helsinki.fi/accessibility/helsinki-region-travel-time-matrix/
 
